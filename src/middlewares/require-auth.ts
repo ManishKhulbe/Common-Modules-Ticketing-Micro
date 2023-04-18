@@ -1,4 +1,4 @@
-import { NotAuthorizedError } from './../errors/not-auth';
+import { NotAuthorizedError } from '../errors/not-auth';
 
 import {Request,Response, NextFunction} from 'express'
 
